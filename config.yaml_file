@@ -1,0 +1,8 @@
+path: CC:\Users\shiva\Desktop
+
+train: C:\Users\shiva\Desktop\debris system\images
+val: C:\Users\shiva\Desktop\debris system\images
+
+#classes
+names:
+  0: Debris
