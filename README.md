@@ -55,9 +55,6 @@ python app.py
 ## Contributing
 Feel free to fork this repository, submit issues, or contribute via pull requests!
 
-## License
-This project is licensed under the MIT License.
-
 ---
 🚀 **Developed for Techxcelerate Hyderabad March Edition, BITS Pilani**
 
