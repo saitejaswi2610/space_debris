@@ -1,4 +1,3 @@
-# space_debris
 # Space Debris Detection System
 
 ## Overview
